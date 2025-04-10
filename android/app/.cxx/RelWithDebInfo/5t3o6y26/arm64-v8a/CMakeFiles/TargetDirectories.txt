@@ -1,0 +1,2 @@
+C:/Users/djain/StudioProjects/attendence/android/app/.cxx/RelWithDebInfo/5t3o6y26/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/djain/StudioProjects/attendence/android/app/.cxx/RelWithDebInfo/5t3o6y26/arm64-v8a/CMakeFiles/rebuild_cache.dir
